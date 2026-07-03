@@ -159,17 +159,7 @@ Features
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oyed-hub&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyed-hub&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -181,15 +171,7 @@ Features
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oyed-hub&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
