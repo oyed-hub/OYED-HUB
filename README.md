@@ -163,9 +163,9 @@ Features
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OYED-HUBE&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oyed-hub&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OYED-HUB&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyed-hub&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -175,7 +175,7 @@ Features
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=OYED-HUB&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=oyed-hub&theme=tokyonight"/>
 
 </p>
 
@@ -185,7 +185,7 @@ Features
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=OYED-HUB&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=oyed-hub&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
