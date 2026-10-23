@@ -1,297 +1,241 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Madhu
+# 👋 Hi, I'm M.Madhu
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+Real-World+AI+Projects;Always+Learning+New+Technologies" />
+### 🚀 DevOps & Cloud Engineer | B.Tech CSE (AIML) Graduate
 
-<img src="https://komarev.com/ghpvc/?username=oyed-hub&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+%26+Cloud+Engineer;Linux+%7C+AWS+%7C+Docker+%7C+Jenkins;CI%2FCD+%7C+GitHub+Actions+%7C+Ansible;Building+Scalable+%26+Automated+Infrastructure" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/oyed-hub">
+<img src="https://img.shields.io/github/followers/oyed-hub?label=Followers&style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/oyed-hub">
+<img src="https://img.shields.io/github/stars/oyed-hub?label=Stars&style=for-the-badge&logo=github">
+</a>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Graduate
+I'm a **B.Tech Computer Science Engineering graduate specializing in Artificial Intelligence & Machine Learning**, currently building my career in **DevOps and Cloud Engineering**.
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+I enjoy automating software delivery, working with Linux systems, building CI/CD pipelines, containerizing applications, and deploying applications on cloud infrastructure.
 
-💻 Python Developer with Full Stack Development experience
+### 🎯 Currently Focusing On
 
-🚀 Love building AI-powered applications that solve real-world problems
-
-🌱 Currently Exploring
-
-- Large Language Models (LLMs)
-- Generative AI
-- Deep Learning
-- Computer Vision
-- FastAPI
-- Docker
-- Cloud Deployment
-- System Design
-
-💡 **Learning → Building → Improving → Sharing**
+- ☁️ AWS Cloud Infrastructure
+- 🐧 Linux Administration
+- 🐳 Docker & Containerization
+- 🔄 CI/CD Automation
+- ⚙️ Jenkins & GitHub Actions
+- 🛠️ Ansible Automation
+- 📦 Maven & Nexus
+- 🌐 Networking & Cloud Fundamentals
+- 📊 Monitoring & Infrastructure Automation
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-## Languages
+## ☁️ Cloud & Infrastructure
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css"/>
+<a href="https://aws.amazon.com/">
+<img src="https://skillicons.dev/icons?i=aws" width="55"/>
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+</a>
 
 </p>
 
 ---
 
-## Frameworks
+## 🔄 DevOps & CI/CD
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs"/>
-
-</p>
-
----
-
-## AI / ML
-
-<p>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="55"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="55"/>
+<img src="https://skillicons.dev/icons?i=ansible" width="55"/>
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 
 </p>
 
 ---
 
-## Database
+## 💻 Programming & Development
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
 
 </p>
 
 ---
 
-# 📂 Featured Projects
+## 🗄️ Databases & Build Tools
 
-## 🤖 AI Resume Analyzer
+<p align="left">
 
-An intelligent ATS-based resume analysis platform that evaluates resumes against job descriptions using NLP and Machine Learning.
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+<img src="https://skillicons.dev/icons?i=maven" width="55"/>
+<img src="https://skillicons.dev/icons?i=npm" width="55"/>
 
-### Features
-
-- Resume Parsing
-- ATS Score Prediction
-- Skill Extraction
-- Missing Skills Analysis
-- Resume Feedback
-- Interview Question Generator
-- PDF Report Generation
-
-**Tech Stack**
-
-Python • Streamlit • NLP • Scikit-Learn • PyMuPDF • Pandas
+</p>
 
 ---
 
-## 🏡 House Price Prediction System
+# 🚀 DevOps Projects
 
-A Machine Learning application that predicts house prices using property features and trained regression models.
+## 🔹 1. CI/CD Pipeline with Jenkins, Docker & AWS
 
-### Features
+**Technologies:**  
+`Linux` `Git` `GitHub` `Jenkins` `Maven` `Docker` `AWS EC2`
 
-- Price Prediction
-- Data Visualization
-- Feature Engineering
-- Model Comparison
-- Streamlit Dashboard
-- Interactive User Interface
+### What I implemented
 
-**Tech Stack**
+- Designed a complete CI/CD pipeline
+- Integrated GitHub with Jenkins
+- Automated source-code checkout
+- Built applications using Maven
+- Created Docker images
+- Deployed containerized applications
+- Configured AWS EC2 infrastructure
+- Automated application delivery
 
-Python • Streamlit • Random Forest • Scikit-Learn • Pandas • NumPy
-
----
-
-## 📧 Spam Email Detector
-
-A Natural Language Processing project that classifies emails into Spam or Ham with high accuracy.
-
-### Features
-
-- Email Classification
-- TF-IDF Vectorization
-- Text Cleaning
-- Prediction Confidence
-- Real-time Detection
-- Streamlit Interface
-
-**Tech Stack**
-
-Python • Streamlit • Scikit-Learn • TF-IDF • NLP
+🔗 **Repository:** [View Project](https://github.com/oyed-hub)
 
 ---
 
-# 📊 GitHub Stats
+## 🔹 2. Dockerized Application Deployment
+
+**Technologies:**  
+`Docker` `Docker Compose` `Linux` `GitHub`
+
+### What I implemented
+
+- Containerized an application using Docker
+- Created optimized Dockerfiles
+- Configured multi-container environments
+- Used Docker Compose for service orchestration
+- Managed application networking
+- Implemented persistent storage using volumes
+
+🔗 **Repository:** [View Project](https://github.com/oyed-hub)
+
+---
+
+## 🔹 3. AWS Infrastructure Automation with Ansible
+
+**Technologies:**  
+`AWS EC2` `Linux` `Ansible` `SSH` `Git`
+
+### What I implemented
+
+- Provisioned Linux servers on AWS
+- Configured SSH-based automation
+- Created Ansible inventory
+- Developed reusable playbooks
+- Automated package installation
+- Automated application configuration
+- Reduced repetitive manual server configuration
+
+🔗 **Repository:** [View Project](https://github.com/oyed-hub)
+
+---
+
+# 🧰 Tools I Use
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oyed-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyed-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins,aws,ansible,maven,mysql,vscode" />
 
 </p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=oyed-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyed-hub&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=oyed-hub&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=oyed-hub&theme=tokyonight&hide_border=true" />
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oyed-hub&theme=algolia&margin-w=10&no-frame=true&row=2&column=4"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oyed-hub&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oyed-hub&theme=tokyo-night&hide_border=true" />
 
-</p>
-
----
-
-# 📚 Certifications
-
-- Python Programming
-- Machine Learning
-- Deep Learning Fundamentals
-- Data Structures & Algorithms
-- SQL & Database Management
+</div>
 
 ---
 
-# 🌟 Currently Working On
-
-- 🤖 Large Language Models
-- 🔥 Generative AI
-- 📊 Data Science
-- ⚡ FastAPI
-- 🧠 Deep Learning
-- ☁ Cloud Deployment
-- 🐳 Docker
-- 🔗 REST APIs
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Advanced Python
-- ✅ Become AI/ML Engineer
-- ✅ Contribute to Open Source
-- ✅ Build 25+ AI Projects
-- ✅ Learn Kubernetes
-- ✅ Crack Product-Based Company
-- ✅ Publish Technical Blogs
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/oyed-hub">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/madhu-m-4a657824b/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:madhumaile6@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-## ⭐ Quote of the Day
-
-> **"The best way to predict the future is to build it."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7F00FF&height=120&section=footer"/>
+<img src="https://github-profile-trophy.vercel.app/?username=oyed-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
+
+---
+
+# 💡 DevOps Mindset
+
+```text
+Code
+  ↓
+Git
+  ↓
+Build
+  ↓
+Test
+  ↓
+Docker
+  ↓
+CI/CD
+  ↓
+AWS
+  ↓
+Deploy
+  ↓
+Monitor
+  ↓
+Improve
