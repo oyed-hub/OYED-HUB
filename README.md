@@ -124,7 +124,7 @@ I enjoy automating software delivery, working with Linux systems, building CI/CD
 - Configured AWS EC2 infrastructure
 - Automated application delivery
 
-🔗 **Repository:** [View Project](https://github.com/oyed-hub)
+
 
 ---
 
@@ -142,7 +142,7 @@ I enjoy automating software delivery, working with Linux systems, building CI/CD
 - Managed application networking
 - Implemented persistent storage using volumes
 
-🔗 **Repository:** [View Project](https://github.com/oyed-hub)
+
 
 ---
 
@@ -161,7 +161,7 @@ I enjoy automating software delivery, working with Linux systems, building CI/CD
 - Automated application configuration
 - Reduced repetitive manual server configuration
 
-🔗 **Repository:** [View Project](https://github.com/oyed-hub)
+
 
 ---
 
