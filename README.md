@@ -197,23 +197,7 @@ I enjoy automating software delivery, working with Linux systems, building CI/CD
 
 ---
 
-# 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oyed-hub&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oyed-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
 
 ---
 
