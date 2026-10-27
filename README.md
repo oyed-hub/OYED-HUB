@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm M.Madhu
+# 👋 Hi, I'm M. Madhu
 
 ### 🚀 DevOps & Cloud Engineer | B.Tech CSE (AIML) Graduate
 
@@ -22,11 +22,13 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a **B.Tech Computer Science Engineering graduate specializing in Artificial Intelligence & Machine Learning**, currently building my career in **DevOps and Cloud Engineering**.
 
-I enjoy automating software delivery, working with Linux systems, building CI/CD pipelines, containerizing applications, and deploying applications on cloud infrastructure.
+I enjoy designing CI/CD pipelines, automating infrastructure, containerizing applications, managing Linux environments, and deploying applications on AWS.
+
+My focus is on building **reliable, automated, and production-oriented DevOps workflows** using modern cloud and automation technologies.
 
 ### 🎯 Currently Focusing On
 
@@ -36,7 +38,7 @@ I enjoy automating software delivery, working with Linux systems, building CI/CD
 - 🔄 CI/CD Automation
 - ⚙️ Jenkins & GitHub Actions
 - 🛠️ Ansible Automation
-- 📦 Maven & Nexus
+- 📦 Maven & Nexus Repository Management
 - 🌐 Networking & Cloud Fundamentals
 - 📊 Monitoring & Infrastructure Automation
 
@@ -106,27 +108,66 @@ I enjoy automating software delivery, working with Linux systems, building CI/CD
 
 ---
 
-# 🚀 DevOps Projects
+# 🚀 Featured DevOps Project
 
-## 🔹 1. CI/CD Pipeline with Jenkins, Docker & AWS
+## ⭐ End-to-End CI/CD Pipeline with Jenkins, Docker, Nexus & AWS
 
 **Technologies:**  
-`Linux` `Git` `GitHub` `Jenkins` `Maven` `Docker` `AWS EC2`
+`AWS EC2` `Linux` `Git` `GitHub` `Jenkins` `Maven` `Nexus` `Docker` `CI/CD`
 
-### What I implemented
+### 📌 Project Overview
 
-- Designed a complete CI/CD pipeline
-- Integrated GitHub with Jenkins
-- Automated source-code checkout
-- Built applications using Maven
-- Created Docker images
-- Deployed containerized applications
-- Configured AWS EC2 infrastructure
-- Automated application delivery
+Designed and implemented an **end-to-end CI/CD pipeline** that automates the software delivery lifecycle from source-code management to containerized deployment on AWS infrastructure.
 
+### 🔧 Key Implementations
 
+- ⚙️ Configured **Jenkins** as the CI/CD automation server
+- 🔗 Integrated **GitHub** for automated source-code checkout
+- 🏗️ Configured **Maven** for application build and dependency management
+- 📦 Integrated **Nexus Repository** for centralized artifact management
+- 🐳 Built and managed **Docker container images**
+- ☁️ Deployed infrastructure using **AWS EC2**
+- 🔐 Configured Linux-based cloud servers and SSH access
+- 🔄 Automated build, package, artifact, and deployment workflows
+- 🌐 Configured communication between Jenkins, Nexus, Docker, and AWS environments
+- 🛠️ Troubleshot Git, Java, Maven, Jenkins, Nexus, and Docker integration issues
+
+### 🔄 CI/CD Workflow
+
+```text
+Developer
+    ↓
+GitHub Repository
+    ↓
+Jenkins
+    ↓
+Source Checkout
+    ↓
+Maven Build
+    ↓
+Unit / Build Validation
+    ↓
+Nexus Repository
+    ↓
+Docker Image Build
+    ↓
+Docker Registry
+    ↓
+AWS EC2
+    ↓
+Container Deployment
+    ↓
+Application
+```
+
+### 🎯 Key DevOps Concepts Demonstrated
+
+`CI/CD` `Infrastructure` `Artifact Management` `Containerization`  
+`Cloud Deployment` `Linux Administration` `Git Integration` `Automation`
 
 ---
+
+# 🚀 Other DevOps Projects
 
 ## 🔹 2. Dockerized Application Deployment
 
@@ -139,10 +180,9 @@ I enjoy automating software delivery, working with Linux systems, building CI/CD
 - Created optimized Dockerfiles
 - Configured multi-container environments
 - Used Docker Compose for service orchestration
-- Managed application networking
-- Implemented persistent storage using volumes
-
-
+- Configured container networking
+- Implemented persistent storage using Docker volumes
+- Managed application lifecycle using Docker CLI
 
 ---
 
@@ -153,15 +193,13 @@ I enjoy automating software delivery, working with Linux systems, building CI/CD
 
 ### What I implemented
 
-- Provisioned Linux servers on AWS
-- Configured SSH-based automation
-- Created Ansible inventory
-- Developed reusable playbooks
-- Automated package installation
-- Automated application configuration
-- Reduced repetitive manual server configuration
-
-
+- Provisioned Linux servers on AWS EC2
+- Configured SSH-based Ansible automation
+- Created structured Ansible inventories
+- Developed reusable automation playbooks
+- Automated package installation and server configuration
+- Automated application setup across remote servers
+- Reduced repetitive manual configuration tasks
 
 ---
 
@@ -197,10 +235,6 @@ I enjoy automating software delivery, working with Linux systems, building CI/CD
 
 ---
 
-
-
----
-
 # 💡 DevOps Mindset
 
 ```text
@@ -211,6 +245,8 @@ Git
 Build
   ↓
 Test
+  ↓
+Artifact
   ↓
 Docker
   ↓
@@ -223,3 +259,30 @@ Deploy
 Monitor
   ↓
 Improve
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/oyed-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building. Automating. Deploying. Improving.
+
+**Always learning | Always automating | Always improving**
+
+</div>
