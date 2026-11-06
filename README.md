@@ -24,7 +24,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science Engineering graduate specializing in Artificial Intelligence & Machine Learning**, currently building my career in **DevOps and Cloud Engineering**.
+DevOps Engineer with 1 year of experience in CI/CD automation, cloud infrastructure, and application deployment. Skilled in AWS, Linux, Docker, Kubernetes, Jenkins, Git, Terraform, and Shell scripting. Passionate about automation, troubleshooting, and improving deployment efficiency.
 
 I enjoy designing CI/CD pipelines, automating infrastructure, containerizing applications, managing Linux environments, and deploying applications on AWS.
 
